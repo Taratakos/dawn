@@ -158,6 +158,12 @@
         "padding_bottom": 36
       }
     },
+    "1bcfe8b8-af71-45f8-958a-7fc6c4c0de77": {
+      "type": "test-2",
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/thick-lush-green-forest.jpg"
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -224,6 +230,7 @@
     "featured_collection",
     "collage",
     "video",
+    "1bcfe8b8-af71-45f8-958a-7fc6c4c0de77",
     "multicolumn",
     "b7c6d8e9-e9ef-4860-8351-9d8f2c2d01f9"
   ]
