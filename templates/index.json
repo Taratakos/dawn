@@ -306,11 +306,6 @@
       "settings": {
         "image_2": "shopify:\/\/shop_images\/1.jpg"
       }
-    },
-    "7ac9d2e5-f9b2-481c-9755-028803a526ee": {
-      "type": "test-2",
-      "settings": {
-      }
     }
   },
   "order": [
@@ -322,7 +317,6 @@
     "multicolumn",
     "9ed7f4c3-5598-44f0-829d-0adaf378dca9",
     "faab36b0-a801-4e0e-95bb-e880708ddc9e",
-    "b7c6d8e9-e9ef-4860-8351-9d8f2c2d01f9",
-    "7ac9d2e5-f9b2-481c-9755-028803a526ee"
+    "b7c6d8e9-e9ef-4860-8351-9d8f2c2d01f9"
   ]
 }
