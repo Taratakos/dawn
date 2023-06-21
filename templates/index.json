@@ -261,6 +261,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "faab36b0-a801-4e0e-95bb-e880708ddc9e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19526620905786__faab36b0-a801-4e0e-95bb-e880708ddc9e-1687329146e2dd9ad5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--19526620905786__faab36b0-a801-4e0e-95bb-e880708ddc9e-1687329146e2dd9ad5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19526620905786__faab36b0-a801-4e0e-95bb-e880708ddc9e-1687329146e2dd9ad5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19526620905786__faab36b0-a801-4e0e-95bb-e880708ddc9e-1687329146e2dd9ad5-0",
+        "template--19526620905786__faab36b0-a801-4e0e-95bb-e880708ddc9e-1687329146e2dd9ad5-1",
+        "template--19526620905786__faab36b0-a801-4e0e-95bb-e880708ddc9e-1687329146e2dd9ad5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mint-green-mug-full-of-black-coffee-on-top-of-books.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -271,6 +316,7 @@
     "video",
     "multicolumn",
     "b7c6d8e9-e9ef-4860-8351-9d8f2c2d01f9",
-    "9ed7f4c3-5598-44f0-829d-0adaf378dca9"
+    "9ed7f4c3-5598-44f0-829d-0adaf378dca9",
+    "faab36b0-a801-4e0e-95bb-e880708ddc9e"
   ]
 }
