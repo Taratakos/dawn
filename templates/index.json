@@ -301,14 +301,16 @@
         "padding_bottom": 36
       }
     },
-    "1657fd9d-36b1-4f07-be75-3182e2c1c002": {
+    "91df822d-91d3-432f-a7de-386a8a951115": {
       "type": "our-masters",
       "settings": {
       }
     },
-    "91df822d-91d3-432f-a7de-386a8a951115": {
-      "type": "our-masters",
+    "1040fc4e-9309-4cae-95d1-a27769757a35": {
+      "type": "our-masters-profile",
       "settings": {
+        "title": "",
+        "user_name": ""
       }
     }
   },
@@ -321,7 +323,7 @@
     "multicolumn",
     "9ed7f4c3-5598-44f0-829d-0adaf378dca9",
     "faab36b0-a801-4e0e-95bb-e880708ddc9e",
-    "1657fd9d-36b1-4f07-be75-3182e2c1c002",
-    "91df822d-91d3-432f-a7de-386a8a951115"
+    "91df822d-91d3-432f-a7de-386a8a951115",
+    "1040fc4e-9309-4cae-95d1-a27769757a35"
   ]
 }
