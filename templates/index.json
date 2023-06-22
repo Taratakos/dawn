@@ -301,12 +301,14 @@
         "padding_bottom": 36
       }
     },
-    "9e78b587-e72c-4b89-a6b8-58c1f4297a0b": {
-      "type": "our-masters-profile",
+    "1657fd9d-36b1-4f07-be75-3182e2c1c002": {
+      "type": "our-masters",
       "settings": {
-        "user_img": "shopify:\/\/shop_images\/stylish-man-in-bow-tie.jpg",
-        "user_name": "John Doe",
-        "user_bio": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+      }
+    },
+    "91df822d-91d3-432f-a7de-386a8a951115": {
+      "type": "our-masters",
+      "settings": {
       }
     }
   },
@@ -319,6 +321,7 @@
     "multicolumn",
     "9ed7f4c3-5598-44f0-829d-0adaf378dca9",
     "faab36b0-a801-4e0e-95bb-e880708ddc9e",
-    "9e78b587-e72c-4b89-a6b8-58c1f4297a0b"
+    "1657fd9d-36b1-4f07-be75-3182e2c1c002",
+    "91df822d-91d3-432f-a7de-386a8a951115"
   ]
 }
