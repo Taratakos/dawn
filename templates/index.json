@@ -310,6 +310,11 @@
       "type": "our-masters",
       "settings": {
       }
+    },
+    "11b144ab-3357-4fca-9b4f-bd9d1b5a8f68": {
+      "type": "our-masters-profile",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -322,6 +327,7 @@
     "9ed7f4c3-5598-44f0-829d-0adaf378dca9",
     "faab36b0-a801-4e0e-95bb-e880708ddc9e",
     "1657fd9d-36b1-4f07-be75-3182e2c1c002",
-    "91df822d-91d3-432f-a7de-386a8a951115"
+    "91df822d-91d3-432f-a7de-386a8a951115",
+    "11b144ab-3357-4fca-9b4f-bd9d1b5a8f68"
   ]
 }
