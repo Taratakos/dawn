@@ -8,6 +8,15 @@
     "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
+    "name": "Mini cart",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Mini Cart"
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.logo.name",
     "settings": [
       {
