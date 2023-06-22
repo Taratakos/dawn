@@ -308,6 +308,14 @@
         "user_name": "John Doe",
         "user_bio": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
       }
+    },
+    "b1ac0589-fc52-4dc1-890c-e0922d32c28d": {
+      "type": "our-masters-profile",
+      "settings": {
+        "user_img": "shopify:\/\/shop_images\/man-looks-to-the-left-on-a-fall-day.jpg",
+        "user_name": "Khan",
+        "user_bio": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. <\/p>"
+      }
     }
   },
   "order": [
@@ -319,6 +327,7 @@
     "multicolumn",
     "9ed7f4c3-5598-44f0-829d-0adaf378dca9",
     "faab36b0-a801-4e0e-95bb-e880708ddc9e",
-    "d0d7f26f-ece4-4485-bda4-0dc5cdd3d3ab"
+    "d0d7f26f-ece4-4485-bda4-0dc5cdd3d3ab",
+    "b1ac0589-fc52-4dc1-890c-e0922d32c28d"
   ]
 }
