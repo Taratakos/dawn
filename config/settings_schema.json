@@ -18,6 +18,11 @@
         "type": "text",
         "id": "test_data",
         "label": "Test Data"
+      },
+      {
+        "type": "image_picker",
+        "id": "test_img",
+        "label": "Test Data"
       }
     ]
   },
