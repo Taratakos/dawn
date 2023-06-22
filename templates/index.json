@@ -301,13 +301,12 @@
         "padding_bottom": 36
       }
     },
-    "36ba48b5-064c-4b91-9d94-4cd598b8bd38": {
-      "type": "our-masters-profile",
+    "1657fd9d-36b1-4f07-be75-3182e2c1c002": {
+      "type": "our-masters",
       "settings": {
-        "title": ""
       }
     },
-    "10de227c-097b-425d-9d0e-06bbd438aa9f": {
+    "91df822d-91d3-432f-a7de-386a8a951115": {
       "type": "our-masters",
       "settings": {
       }
@@ -322,7 +321,7 @@
     "multicolumn",
     "9ed7f4c3-5598-44f0-829d-0adaf378dca9",
     "faab36b0-a801-4e0e-95bb-e880708ddc9e",
-    "36ba48b5-064c-4b91-9d94-4cd598b8bd38",
-    "10de227c-097b-425d-9d0e-06bbd438aa9f"
+    "1657fd9d-36b1-4f07-be75-3182e2c1c002",
+    "91df822d-91d3-432f-a7de-386a8a951115"
   ]
 }
