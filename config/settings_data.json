@@ -1,7 +1,6 @@
 {
   "current": {
-    "test_data": "This data is  just for testing (update))",
-    "test_img": "shopify:\/\/shop_images\/rooibos-tea.jpg",
+    "test_data": "",
     "logo_width": 90,
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -113,6 +112,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "test_img": "shopify:\/\/shop_images\/rooibos-tea.jpg",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
